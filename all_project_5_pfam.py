@@ -2,7 +2,7 @@
 # Functie: Dit script is een pipline wat in staat is om een input FASTA bestand
 # met MAFFT te multiple alignen, om hierna een HMM te bouwen en te zoeken met
 # dit gebouwde HMM in de NR (gedownload) database
-# Auteurs: Lars, Johannes en Robert
+# Auteurs: Lars Maas en Robert Rijksen
 
 import os
 import subprocess
